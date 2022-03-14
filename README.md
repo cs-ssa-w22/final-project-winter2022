@@ -7,7 +7,7 @@
 
 #### Group: Goodfellas
 #### Members: Sophie Wang, Zhe Zhang, Baotoang Zhang, Guangyuan Chen
-#### Record link: https://drive.google.com/file/d/1GR_yPOtQec9Qt0JVO3i33bfIJoUlzH8k/view?usp=sharing
+#### Record link: https://drive.google.com/file/d/1ClrYCpmnbpZ7ZwX7YydOTWeT5FKXLNcu/view?usp=sharing
 
 
 
