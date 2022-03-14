@@ -1,22 +1,22 @@
 
-##
+
 
 <img src="figure/cover0.png" width="650">
 
-##How COVID-19 Influences Job Interview Behaviors
+## How COVID-19 Influences Job Interview Behaviors
 
 #### Group: Goodfellas
-#### Group members: Sophie Wang, Zhe Zhang, Baotoang Zhang, Guangyuan Chen
+#### Members: Sophie Wang, Zhe Zhang, Baotoang Zhang, Guangyuan Chen
 #### Record link: https://drive.google.com/file/d/1GR_yPOtQec9Qt0JVO3i33bfIJoUlzH8k/view?usp=sharing
 
 
 
 ### Project Schedule
-#### 1) set up our main goal to explore social science influence by Covid-19
-#### 2) aim at Glassdoor website and make plans to dig out interesting information about changes of American job market
-#### 3) code design for data scraping (first main part of this video)
-#### 4) code design for data processing and analyzing (second main part of this video)
-#### 5) conclude results and make the presentation
+#### 1. set up our main goal to explore social science influence by Covid-19
+#### 2. aim at Glassdoor website and make plans to dig out interesting information about changes of American job market
+#### 3. code design for data scraping (first main part of this video)
+#### 4. code design for data processing and analyzing (second main part of this video)
+#### 5. conclude results and make the presentation
 
 ### Data Sources
 #### Glassdoor
